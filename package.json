@@ -10,7 +10,7 @@
     "source-map-support": "^0.5.13",
     "terser": "^4.3.9",
     "lodash": "^4.17.15",
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   },
   "scripts": {
     "build": "terser src/index.js -c -o index.js",
